@@ -10,55 +10,55 @@
         // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
         // Base Colors
         // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-        "focusBorder": "#002535",
-        "foreground": "#b99468",
-        "widget.shadow": "#001020",
+        "focusBorder": "#252525",
+        "foreground": "#bbbbbb",
+        "widget.shadow": "#141414",
         "selection.background": "#005060",
         "descriptionForeground": "#707070",
         "errorForeground": "#ff0000",
         // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
         // Text Colors — Colors inside a text document, such as the welcome page.
         // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-        "textBlockQuote.background": "#001828",
-        "textBlockQuote.border": "#002030",
+        "textBlockQuote.background": "#181818",
+        "textBlockQuote.border": "#202020",
         "textCodeBlock.background": "#303030",
-        "textLink.activeForeground": "#509696",
-        "textLink.foreground": "#509696",
+        "textLink.activeForeground": "#1f7187",
+        "textLink.foreground": "#1f7187",
         "textPreformat.foreground": "#bbbbbb",
         "textSeparator.foreground": "#bbbbbb",
         // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
         // Button Control — A set of colors for button widgets such as Open Folder button in the Explorer of a new window.
         // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-        "button.background": "#002030",
-        "button.hoverBackground": "#00203070",
+        "button.background": "#202020",
+        "button.hoverBackground": "#20202070",
         "button.foreground": "#707070",
         // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
         // Dropdown Control — A set of colors for all dropdown widgets such as in the Integrated Terminal or the Output panel. Note that the dropdown control is not used on macOS currently.
         // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-        "dropdown.background": "#001828",
-        "dropdown.listBackground": "#001828",
-        "dropdown.border": "#002030",
+        "dropdown.background": "#181818",
+        "dropdown.listBackground": "#181818",
+        "dropdown.border": "#202020",
         "dropdown.foreground": "#bbbbbb",
-        "settings.dropdownBackground": "#001828",
-        "settings.dropdownBorder": "#002030",
+        "settings.dropdownBackground": "#181818",
+        "settings.dropdownBorder": "#202020",
         "settings.dropdownForeground": "#bbbbbb",
-        "settings.dropdownListBorder": "#001828",
+        "settings.dropdownListBorder": "#181818",
         "menu.foreground": "#707070",
-        "menu.background": "#001828",
-        "menu.selectionBorder": "#002030",
-        "menu.selectionBackground": "#002030",
+        "menu.background": "#181818",
+        "menu.selectionBorder": "#202020",
+        "menu.selectionBackground": "#202020",
         "menu.selectionForeground": "#bbbbbb",
         "menu.separatorBackground": "#707070",
-        "menubar.selectionBackground": "#002030",
+        "menubar.selectionBackground": "#202020",
         "menubar.selectionForeground": "#bbbbbb",
         // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
         // Input Control — Colors for input controls such as in the Search view or the Find/Replace dialog.
         // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
         "input.background": "#161616",
-        "input.border": "#002030",
+        "input.border": "#202020",
         "input.foreground": "#bbbbbb",
         "input.placeholderForeground": "#707070",
-        "inputOption.activeBorder": "#002030",
+        "inputOption.activeBorder": "#202020",
         //"inputValidation.errorBackground": "#",
         //"inputValidation.errorBorder": "#",
         //"inputValidation.infoBackground": "#",
@@ -68,14 +68,14 @@
         // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
         // Scroll Bar Control
         // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-        "scrollbar.shadow": "#001020",
+        "scrollbar.shadow": "#141414",
         "scrollbarSlider.activeBackground": "#70707010",
         "scrollbarSlider.background": "#70707030",
         "scrollbarSlider.hoverBackground": "#70707050",
         // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
         // Badge — Badges are small information labels, for example, search results count.
         // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-        "badge.background": "#002535",
+        "badge.background": "#252525",
         "badge.foreground": "#707070",
         // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
         // Progress Bar
@@ -84,17 +84,17 @@
         // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
         // Lists and Trees — Colors for list and trees like the File Explorer. An active list/tree has keyboard focus, an inactive does not.
         // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-        "list.activeSelectionBackground": "#002030",
+        "list.activeSelectionBackground": "#202020",
         "list.activeSelectionForeground": "#bbbbbb",
-        "list.dropBackground": "#00203050",
-        "list.focusBackground": "#002030",
+        "list.dropBackground": "#20202050",
+        "list.focusBackground": "#202020",
         "list.focusForeground": "#bbbbbb",
         "list.highlightForeground": "#bbbbbb",
-        "list.hoverBackground": "#00203070",
+        "list.hoverBackground": "#20202070",
         "list.hoverForeground": "#707070",
-        "list.inactiveSelectionBackground": "#002030",
+        "list.inactiveSelectionBackground": "#202020",
         "list.inactiveSelectionForeground": "#bbbbbb",
-        "list.inactiveFocusBackground": "#002030",
+        "list.inactiveFocusBackground": "#202020",
         "list.invalidItemForeground": "#ff0000",
         "list.deemphasizedForeground": "#707070",
         "list.errorForeground": "#707070",
@@ -102,58 +102,58 @@
         // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
         // Activity Bar — The Activity Bar is displayed either on the far left or right of the workbench and allows fast switching between views of the Side Bar.
         // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-        "activityBar.background": "#001828",
-        //"activityBar.dropBackground": "#00203050",
+        "activityBar.background": "#181818",
+        //"activityBar.dropBackground": "#20202050",
         "activityBar.foreground": "#707070",
-        "activityBar.border": "#002030",
-        "activityBarBadge.background": "#002535",
+        "activityBar.border": "#202020",
+        "activityBarBadge.background": "#252525",
         "activityBarBadge.foreground": "#707070",
         "activityBar.activeBorder": "#bbbbbb",
-        "activityBar.dropBorder": "#002030",
+        "activityBar.dropBorder": "#202020",
         "activityBar.inactiveForeground": "#707070",
         // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
         // Side Bar — The Side Bar contains views like the Explorer and Search.
         // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-        "sideBar.background": "#001828",
+        "sideBar.background": "#181818",
         "sideBar.foreground": "#707070",
-        "sideBar.border": "#002030",
-        "sideBar.dropBackground": "#00203050",
+        "sideBar.border": "#202020",
+        "sideBar.dropBackground": "#20202050",
         "sideBarTitle.foreground": "#bbbbbb",
-        "sideBarSectionHeader.background": "#001828",
+        "sideBarSectionHeader.background": "#181818",
         "sideBarSectionHeader.foreground": "#bbbbbb",
-        "sideBarSectionHeader.border": "#002030",
+        "sideBarSectionHeader.border": "#202020",
         // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
         // Editor Groups & Tabs — Editor Groups are the containers of editors. There can be up to three editor groups. A Tab is the container of an editor. Multiple Tabs can be opened in one editor group.
         // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-        "editorGroup.emptyBackground": "#001828",
-        "editorGroup.border": "#002030",
-        "editorGroup.dropBackground": "#00203050",
-        "editorGroupHeader.noTabsBackground": "#001828",
-        "editorGroupHeader.tabsBackground": "#001828",
-        "editorGroupHeader.tabsBorder": "#002030",
+        "editorGroup.emptyBackground": "#181818",
+        "editorGroup.border": "#202020",
+        "editorGroup.dropBackground": "#20202050",
+        "editorGroupHeader.noTabsBackground": "#181818",
+        "editorGroupHeader.tabsBackground": "#181818",
+        "editorGroupHeader.tabsBorder": "#202020",
         "tab.activeBackground": "#161616",
         "tab.activeForeground": "#bbbbbb",
-        "tab.border": "#002030",
-        "tab.activeBorder": "#002030",
+        "tab.border": "#202020",
+        "tab.activeBorder": "#202020",
         "tab.unfocusedActiveForeground": "#bbbbbb",
-        "tab.unfocusedActiveModifiedBorder": "#002030",
+        "tab.unfocusedActiveModifiedBorder": "#202020",
         "tab.unfocusedInactiveForeground": "#707070",
-        "tab.unfocusedInactiveModifiedBorder": "#002030",
-        "tab.unfocusedActiveBorder": "#002030",
-        "tab.hoverBackground": "#00203070",
-        "tab.unfocusedHoverBackground": "#00203070",
-        "tab.hoverBorder": "#00203050",
-        "tab.unfocusedHoverBorder": "#002030",
-        "tab.inactiveBackground": "#001828",
+        "tab.unfocusedInactiveModifiedBorder": "#202020",
+        "tab.unfocusedActiveBorder": "#202020",
+        "tab.hoverBackground": "#20202070",
+        "tab.unfocusedHoverBackground": "#20202070",
+        "tab.hoverBorder": "#20202050",
+        "tab.unfocusedHoverBorder": "#202020",
+        "tab.inactiveBackground": "#181818",
         "tab.inactiveForeground": "#707070",
         // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
         // Editor Colors — for syntax highlighting, use the editor.tokenColorCustomizations setting. All other editor colors are listed here
         // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
         "editor.background": "#161616",
-        "editor.foreground": "#c8b48c",
+        "editor.foreground": "#b99468",
         "editorLineNumber.foreground": "#707070",
         "editorLineNumber.activeForeground": "#bbbbbb",
-        "editorCursor.background": "#0000ff",
+        "editorCursor.background": "#161616",
         "editorCursor.foreground": "#ffff00",
         "editor.selectionBackground": "#303030",
         //"editor.selectionForeground": "#",
@@ -215,35 +215,35 @@
         // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
         // Editor Widget Colors - The Editor widget is shown in front of the editor content. Examples are the Find/Replace dialog, the suggestion widget, and the editor hover
         // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-        "editorWidget.background": "#001828",
-        "editorWidget.border": "#002030",
-        "editorSuggestWidget.background": "#001828",
-        "editorSuggestWidget.border": "#002030",
+        "editorWidget.background": "#181818",
+        "editorWidget.border": "#202020",
+        "editorSuggestWidget.background": "#181818",
+        "editorSuggestWidget.border": "#202020",
         "editorSuggestWidget.foreground": "#707070",
         "editorSuggestWidget.highlightForeground": "#bbbbbb",
-        "editorSuggestWidget.selectedBackground": "#002030",
-        "editorHoverWidget.background": "#001828",
+        "editorSuggestWidget.selectedBackground": "#202020",
+        "editorHoverWidget.background": "#181818",
         "editorHoverWidget.border": "#002838",
-        "debugExceptionWidget.background": "#001828",
-        "debugExceptionWidget.border": "#002030",
-        "editorMarkerNavigation.background": "#001828", //?
+        "debugExceptionWidget.background": "#181818",
+        "debugExceptionWidget.border": "#202020",
+        "editorMarkerNavigation.background": "#181818", //?
         "editorMarkerNavigationError.background": "#ff000060", //?
         "editorMarkerNavigationInfo.background": "#0000ff60", //?
         "editorMarkerNavigationWarning.background": "#00ff0060", //?
         // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
         // Peek View Colors — Peek views are used to show references and declarations as a view inside the editor.
         // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-        "peekView.border": "#002030",
-        "peekViewEditor.background": "#00203090",
-        "peekViewEditorGutter.background": "#00203090",
+        "peekView.border": "#202020",
+        "peekViewEditor.background": "#20202090",
+        "peekViewEditorGutter.background": "#20202090",
         "peekViewEditor.matchHighlightBackground": "#30303060",
-        "peekViewResult.background": "#001828",
+        "peekViewResult.background": "#181818",
         "peekViewResult.fileForeground": "#707070",
         "peekViewResult.lineForeground": "#707070",
         "peekViewResult.matchHighlightBackground": "#30303060",
         "peekViewResult.selectionBackground": "#30303060",
-        "peekViewResult.selectionForeground": "#c8b48c",
-        "peekViewTitle.background": "#00203090",
+        "peekViewResult.selectionForeground": "#b99468",
+        "peekViewTitle.background": "#20202090",
         "peekViewTitleDescription.foreground": "#707070",
         "peekViewTitleLabel.foreground": "#707070",
         "peekViewEditor.matchHighlightBorder": "#ffff0060",
@@ -264,32 +264,32 @@
         // Panel Colors — Panels are shown below the editor area and contain views like Output and Integrated Terminal.
         // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
         "panel.background": "#161616",
-        "panel.border": "#002030",
-        "panelTitle.activeBorder": "#002030",
+        "panel.border": "#202020",
+        "panelTitle.activeBorder": "#202020",
         "panelTitle.activeForeground": "#bbbbbb",
         "panelTitle.inactiveForeground": "#707070",
-        "panel.dropBorder": "#002030",
-        "panelInput.border": "#002030",
-        "panelSection.border": "#002030",
-        "panelSection.dropBackground": "#00203050",
+        "panel.dropBorder": "#202020",
+        "panelInput.border": "#202020",
+        "panelSection.border": "#202020",
+        "panelSection.dropBackground": "#20202050",
         "panelSectionHeader.background": "#161616",
-        "panelSectionHeader.border": "#002030",
+        "panelSectionHeader.border": "#202020",
         "panelSectionHeader.foreground": "#707070",
         // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
         // Status Bar Colors — The Status Bar is shown in the bottom of the workbench.
         // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-        "statusBar.background": "#001828",
+        "statusBar.background": "#181818",
         "statusBar.foreground": "#707070",
-        "statusBar.border": "#002030",
+        "statusBar.border": "#202020",
         "statusBar.debuggingForeground": "#707070",
-        "statusBar.debuggingBackground": "#001828",
+        "statusBar.debuggingBackground": "#181818",
         "statusBar.debuggingBorder": "#ff000050",
         "statusBar.noFolderForeground": "#707070",
-        "statusBar.noFolderBackground": "#001828",
-        "statusBar.noFolderBorder": "#002030",
+        "statusBar.noFolderBackground": "#181818",
+        "statusBar.noFolderBorder": "#202020",
         "statusBarItem.activeBackground": "#003343",
-        "statusBarItem.hoverBackground": "#00203070",
-        "statusBarItem.prominentBackground": "#001020",
+        "statusBarItem.hoverBackground": "#20202070",
+        "statusBarItem.prominentBackground": "#141414",
         "statusBarItem.prominentForeground": "#707070",
         "statusBarItem.prominentHoverBackground": "#0000004d",
         "statusBarItem.remoteBackground": "#002333",
@@ -297,21 +297,21 @@
         // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
         // Title Bar Colors (macOS)
         // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-        "titleBar.activeBackground": "#001828",
+        "titleBar.activeBackground": "#181818",
         "titleBar.activeForeground": "#707070",
-        "titleBar.inactiveBackground": "#001828",
+        "titleBar.inactiveBackground": "#181818",
         "titleBar.inactiveForeground": "#707070",
         //"titleBar.border": "#",
         // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
         // Notification Colors — Notification toasts slide up from the bottom-right of the workbench.
         // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-        "notificationCenter.border": "#002030",
+        "notificationCenter.border": "#202020",
         "notificationCenterHeader.foreground": "#bbbbbb",
-        "notificationCenterHeader.background": "#001828",
-        "notificationToast.border": "#002030",
+        "notificationCenterHeader.background": "#181818",
+        "notificationToast.border": "#202020",
         "notifications.foreground": "#707070",
-        "notifications.background": "#001828",
-        "notifications.border": "#002030",
+        "notifications.background": "#181818",
+        "notifications.border": "#202020",
         //"notificationLink.foreground": "#",
         // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
         // Extensions
@@ -319,14 +319,14 @@
         "extensionButton.prominentBackground": "#00ff0030",
         "extensionButton.prominentForeground": "#bbbbbb",
         "extensionButton.prominentHoverBackground": "#00ff0050",
-        "pickerGroup.border": "#002030",
+        "pickerGroup.border": "#202020",
         "pickerGroup.foreground": "#707070",
         // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
         // Integrated Terminal Colors
         // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
         "terminal.background": "#161616",
         "terminal.border": "#002333",
-        "terminal.foreground": "#c8b48c",
+        "terminal.foreground": "#b99468",
         "terminal.selectionBackground": "#30303080",
         "terminalCursor.background": "#0000ff",
         "terminalCursor.foreground": "#ffff00",
@@ -349,18 +349,18 @@
         // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
         // Debug
         // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-        "debugToolBar.background": "#001828",
+        "debugToolBar.background": "#181818",
         "debugTokenExpression.boolean": "#a0c896",
         "debugTokenExpression.error": "#ff000040",
         "debugTokenExpression.name": "#be9632",
         "debugTokenExpression.number": "#a0c896",
         "debugTokenExpression.string": "#a0c896",
-        "debugTokenExpression.value": "#c8b48c",
+        "debugTokenExpression.value": "#b99468",
         // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
         // Welcome Page
         // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
         "welcomePage.buttonBackground": "#001929",
-        "welcomePage.buttonHoverBackground": "#00203070",
+        "welcomePage.buttonHoverBackground": "#20202070",
         "walkThrough.embeddedEditorBackground": "#161616",
         // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
         // Git Colors
@@ -384,7 +384,7 @@
                 "punctuation.definition.annotation"
             ],
             "settings": {
-                "foreground": "#707070"
+                "foreground": "#606060"
             }
         },
         {
@@ -410,7 +410,7 @@
                 "storage.modifier.pointer"
             ],
             "settings": {
-                "foreground": "#c8b48c"
+                "foreground": "#b99468"
             }
         },
         {
@@ -430,7 +430,7 @@
                 "keyword.other.unit.hexadecimal"
             ],
             "settings": {
-                "foreground": "#a0c896"
+                "foreground": "#A0CC60"
             }
         },
         {
@@ -485,7 +485,7 @@
                 "entity.name.import"
             ],
             "settings": {
-                "foreground": "#509696"
+                "foreground": "#1f7187"
             }
         },
         {

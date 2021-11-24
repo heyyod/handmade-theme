@@ -1,7 +1,7 @@
 {
     "name": "wooden-aurora-theme",
-    "displayName": "Wooden Aurora Theme",
-    "description": "A minimal dark blue theme with wood shaded text.",
+    "displayName": "Handmade Theme",
+    "description": "Handmade Theme",
     "publisher": "Kostas-Damaskinos",
     "author": {
         "name": "Kostas Damaskinos"
@@ -18,43 +18,23 @@
         "url": "https://github.com/heyyod/dark-blue-and-warm/issues"
     },
     "galleryBanner": {
-        "color": "#001626",
+        "color": "#161616",
         "theme": "dark"
     },
-    "icon": "theme_icon.png",
+    "icon": "",
     "categories": [
         "Themes"
     ],
     "keywords": [
-        "blue",
         "dark",
-        "brown",
-        "warm",
-        "wood",
-        "dark blue",
-        "dark blue theme",
-        "blue theme",
-        "warm theme",
-        "wood theme",
-        "blue warm",
         "dark theme"
     ],
     "contributes": {
         "themes": [
             {
-                "label": "Wooden Aurora Theme",
+                "label": "Handmade",
                 "uiTheme": "vs-dark",
                 "path": ".\\themes\\Handmade-Theme-Main.json"
-            },
-            {
-                "label": "Wooden Aurora Theme (Bright)",
-                "uiTheme": "vs-dark",
-                "path": ".\\themes\\Wooden-Aurora-Bright-Text.json"
-            },
-            {
-                "label": "Wooden Aurora Theme (Minimal)",
-                "uiTheme": "vs-dark",
-                "path": ".\\themes\\Wooden-Aurora-Theme-Minimal.json"
             }
         ]
     }
